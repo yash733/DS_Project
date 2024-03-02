@@ -1,1 +1,5 @@
-setuptools~=69.1.1
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
